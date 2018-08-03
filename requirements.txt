@@ -1,0 +1,5 @@
+numpy==1.15.0
+matplotlib==2.2.2
+geopandas==0.4.0
+Rtree==0.8.3
+osmnx==0.8.1
