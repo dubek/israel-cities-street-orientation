@@ -1,5 +1,8 @@
 # Israel cities streets orientation
 
+Generate charts which show the distribution on street directions in largest
+cities in Israel.
+
 Heavily based on the [excellent work](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/15-calculate-visualize-edge-bearings.ipynb)
 of Geoff Boeing, author of the [OSMnx Python library](https://github.com/gboeing/osmnx).
 
